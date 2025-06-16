@@ -1,4 +1,5 @@
-## 🚀 Objetivos Proyecto Sísifo  
-- Dominar Python para IA en 6 meses  
-- Inglés técnico B2+  
-- Proyecto Spotify Downloader operativo  
+## 🚀 Objetivos 2025  
+- **Python/IA**: Dominar NumPy, Pandas, Scikit-learn  
+- **Inglés**: Alcanzar B2+ técnico certificado  
+- **Proyecto**: Spotify Downloader App funcional (frontend + backend)  
+- **Gestión**: 20 commits/semana mínimo  
