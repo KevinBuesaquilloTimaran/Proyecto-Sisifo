@@ -1,9 +1,4 @@
-Objerivos primera semana 
-
-Lunes: Instalar entorno Python + VS Code 🔧
-Martes: Hola Mundo + Variables 📦
-Miércoles: Condicionales ⚖️
-Jueves: Listas + Loops 🔁
-Viernes: Funciones básicas 🧩
-Sábado: Spotify Downloader v0.1 🎵
-Domingo: Test básico ✅
+## 🚀 Objetivos Proyecto Sísifo  
+- Dominar Python para IA en 6 meses  
+- Inglés técnico B2+  
+- Proyecto Spotify Downloader operativo  
